@@ -20,3 +20,4 @@ def ok():
 app.run(debug=True, port=3000)
 system("ngrok http 3000")
 ```
+want to test my bot? <a href="https://api.whatsapp.com/send/?phone=14155238886&text=join shop-birthday&type=phone_number&app_absent=0">Test me</a>
